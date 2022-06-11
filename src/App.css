@@ -40,3 +40,7 @@
 .blank{
   color: red;
 }
+
+#hide{
+  display: none;
+}
