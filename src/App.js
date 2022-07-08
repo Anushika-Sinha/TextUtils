@@ -75,7 +75,7 @@ function App() {
     <>
       <Router>
         <Navbar
-          title="React One"
+          title="Text Utils"
           aboutText="About Us"
           mode={mode}
           toggleMode={toggleMode}
